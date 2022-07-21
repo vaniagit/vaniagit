@@ -1,9 +1,10 @@
-### Olá! Eu sou a Vânia Francisco 👋
+## Olá! Eu sou a Vânia Francisco 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abcode_now/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vania-francisco)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.vaniaisabel.francisco@gmail.com)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/25155354)
+
 
 ![Vânia GitHub stats](https://github-readme-stats.vercel.app/api?username=vaniagit&show_icons=true&theme=radical)
 
@@ -19,7 +20,7 @@
 </div>
 <br/>
 
-## Outros conhecimentos
+## Outras tecnologias
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
